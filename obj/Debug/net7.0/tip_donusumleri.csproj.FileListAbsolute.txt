@@ -1,0 +1,14 @@
+C:\Dersler\C#\Practice\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.exe
+C:\Dersler\C#\Practice\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.deps.json
+C:\Dersler\C#\Practice\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.runtimeconfig.json
+C:\Dersler\C#\Practice\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.dll
+C:\Dersler\C#\Practice\tip_donusumleri\bin\Debug\net7.0\tip_donusumleri.pdb
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.AssemblyInfoInputs.cache
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.AssemblyInfo.cs
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.dll
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\refint\tip_donusumleri.dll
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.pdb
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\tip_donusumleri.genruntimeconfig.cache
+C:\Dersler\C#\Practice\tip_donusumleri\obj\Debug\net7.0\ref\tip_donusumleri.dll
